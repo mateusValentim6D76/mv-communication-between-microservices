@@ -35,3 +35,8 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Gladle ###
+.idea/**/gradle.xml
+.idea/**/libraries
+
